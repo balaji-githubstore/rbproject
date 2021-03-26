@@ -9,9 +9,9 @@ ${BROWSER}    chrome
 Create3
     [Tags]    OP-76
     [Documentation]    Log the detail in console
-    ...    \n Balaji
+    ...     Balaji
     ...    Examples:
     ...  | Log To Console | Hello, console!             | 
-    Log To Console    TC1    
+    Log    TC1    
 
    
