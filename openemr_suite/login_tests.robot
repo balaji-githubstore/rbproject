@@ -13,5 +13,5 @@ TC1_InvalidCredentialLTScreen1
     Log To Console    TC1    
 TC1_InvalidCredentialLTScreen2
     [Tags]    OP-50
-    log_to_console    TC2
+    Log To Console    TC2
    

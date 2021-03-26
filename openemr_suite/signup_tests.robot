@@ -9,9 +9,7 @@ ${BROWSER}    chrome
 
 *** Test Cases ***
 TC3_InvalidCredentialLTScreen3
-    [Tags]    OP-51
+    [Tags]    OP-56
     Log To Console    TC1    
-TC4_InvalidCredentialLTScreen4
-    [Tags]    OP-
-    log_to_console    TC2
+
    
