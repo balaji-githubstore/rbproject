@@ -8,10 +8,10 @@ Default Tags    owner-john    smoke
 ${BROWSER}    chrome    
 
 *** Test Cases ***
-TC1_InvalidCredentialLTScreen1
-    [Tags]    OP-49
+TC3_InvalidCredentialLTScreen3
+    [Tags]    OP-51
     Log To Console    TC1    
-TC1_InvalidCredentialLTScreen2
-    [Tags]    OP-50
+TC4_InvalidCredentialLTScreen4
+    [Tags]    OP-
     log_to_console    TC2
    
