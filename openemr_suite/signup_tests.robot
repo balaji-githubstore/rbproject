@@ -7,7 +7,7 @@ ${BROWSER}    chrome
 
 *** Test Cases ***
 Create3
-    [Tags]    OP-76
+    # [Tags]    OP-76
     [Documentation]    Log the detail in console
     ...     Balaji
     ...    Examples:
