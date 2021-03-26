@@ -6,8 +6,8 @@ Library    SeleniumLibrary
 ${BROWSER}    chrome    
 
 *** Test Cases ***
-TC3_InvalidCredentialLTScreen3
-    [Tags]    OP-62
+Create3
+    [Tags]    OP-58
     Log To Console    TC1    
 
    
