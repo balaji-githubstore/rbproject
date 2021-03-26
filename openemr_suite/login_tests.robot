@@ -2,15 +2,17 @@
 Library    OperatingSystem    
 Library    SeleniumLibrary
 
-
 *** Variables ***
-${BROWSER}    chrome    
+${BROWSER}    chrome
+ 
 
 *** Test Cases ***
 Create1
-    [Tags]    OP-75
-    Log    TC1    
+    [Tags]    OP-94
+    Log To Console    ${BROWSER}    
+    
+    Log    TC1+${BROWSER}   
 Create2
-    # [Tags]    OP-75
+    [Tags]    OP-95
     Log    TC2
    
