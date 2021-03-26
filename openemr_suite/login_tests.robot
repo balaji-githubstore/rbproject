@@ -8,9 +8,9 @@ ${BROWSER}    chrome
 
 *** Test Cases ***
 Create1
-    [Tags]    OP-71
+    [Tags]    OP-75
     Log To Console    TC1    
 Create2
-    [Tags]    OP-70
+    [Tags]    OP-75
     Log To Console    TC2
    
