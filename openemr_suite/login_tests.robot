@@ -13,6 +13,6 @@ Create1
     
     Log    TC1+${BROWSER}   
 Create2
-    [Tags]    OP-95
+    [Tags]    OP-94
     Log    TC2
    
